@@ -1,28 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Resume</title>
     <style>
-        .resume-button {
-            display: inline-block;
-            padding: 10px 20px;
-            font-size: 16px;
-            color: #fff;
-            background-color: #007bff;
-            text-decoration: none;
-            border-radius: 5px;
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f9;
         }
-        .resume-button:hover {
-            background-color: #0056b3;
+        iframe {
+            width: 80%;
+            height: 90%;
+            border: none;
         }
     </style>
 </head>
 <body>
-    <h1>My Resume</h1>
-    <p>View or download my professional resume:</p>
-    <a class="resume-button" href="path/to/Resume_YourName.pdf" target="_blank" rel="noopener noreferrer">View My Resume</a>
-    <br><br>
-    <a class="resume-button" href="path/to/Resume_YourName.pdf" download="Resume_YourName.pdf">Download My Resume</a>
+    <iframe src="path/to/Resume_YourName.pdf"></iframe>
 </body>
 </html>
-
