@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #575475;
+		background-color: #212931;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -144,7 +144,7 @@ input, select, textarea {
 		}
 
 	body {
-		color: #4a848a;
+		color: #344647;
 	}
 
 	body, input, select, textarea {
@@ -288,11 +288,11 @@ input, select, textarea {
 	}
 
 	input, select, textarea {
-		color: #4a848a;
+		color: #344647;
 	}
 
 	a {
-		color: #4a848a;
+		color: #344647;
 		border-bottom-color: rgba(33, 41, 49, 0.5);
 	}
 
@@ -302,11 +302,11 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #4a848a;
+		color: #344647;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #4a848a;
+		color: #344647;
 	}
 
 	blockquote {
@@ -2206,8 +2206,8 @@ input, select, textarea {
 	button,
 	.button {
 		background-color: transparent;
-		box-shadow: inset 0 0 0 2px #4a848a;
-		color: #4a848a !important;
+		box-shadow: inset 0 0 0 2px #344647;
+		color: #344647 !important;
 	}
 
 		input[type="submit"]:hover,
@@ -2224,7 +2224,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #4a848a;
+			background-color: #344647;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -2475,7 +2475,7 @@ input, select, textarea {
 	}
 
 	label {
-		color: #4a848a;
+		color: #344647;
 	}
 
 	input[type="text"],
@@ -2500,7 +2500,7 @@ input, select, textarea {
 
 		select option {
 			background-color: #ffffff;
-			color: #4a848a;
+			color: #344647;
 		}
 
 	.select-wrapper:before {
@@ -2509,7 +2509,7 @@ input, select, textarea {
 
 	input[type="checkbox"] + label,
 	input[type="radio"] + label {
-		color: #4a848a;
+		color: #344647;
 	}
 
 		input[type="checkbox"] + label:before,
@@ -2519,8 +2519,8 @@ input, select, textarea {
 
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
-		background-color: #4a848a;
-		border-color: #4a848a;
+		background-color: #344647;
+		border-color: #344647;
 		color: #ffffff;
 	}
 
@@ -3084,7 +3084,7 @@ input, select, textarea {
 		}
 
 	table th {
-		color: #4a848a;
+		color: #344647;
 	}
 
 	table thead {
@@ -3193,7 +3193,7 @@ input, select, textarea {
 	}
 
 	.pagination a {
-		color: #4a848a !important;
+		color: #344647 !important;
 	}
 
 		.pagination a:hover {
@@ -3233,7 +3233,7 @@ input, select, textarea {
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: #4a848a;
+			background-color: #344647;
 			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
@@ -4527,7 +4527,7 @@ input, select, textarea {
 		#navPanelToggle.alt {
 			background-color: rgba(255, 255, 255, 0.875);
 			box-shadow: 0 0.125rem 0.75rem 0 rgba(30, 37, 45, 0.25);
-			color: #4a848a;
+			color: #344647;
 		}
 
 			#navPanelToggle.alt:hover {
@@ -4564,7 +4564,7 @@ input, select, textarea {
 		-webkit-overflow-scrolling: touch;
 		background: #ffffff;
 		box-shadow: none;
-		color: #4a848a;
+		color: #344647;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
@@ -4643,7 +4643,7 @@ input, select, textarea {
 			}
 
 			#navPanel .close:hover {
-				color: #4a848a;
+				color: #344647;
 			}
 
 			@media screen and (max-width: 736px) {
